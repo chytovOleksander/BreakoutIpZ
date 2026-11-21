@@ -99,3 +99,10 @@ deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",179502674
 activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1795026746785
 deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1795026765382
 activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1795026767843
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1795026770370
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1795026856940
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1795026859635
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1795027392199
+closed,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1795027392355
+started,bundle,org.eclipse.compare.core,3.5.101.R36x_v20100929-0800,"org.eclipse.compare.core",1795027392679
+started,bundle,org.eclipse.compare,3.5.101.R36x_v20100929-0800,"org.eclipse.compare",1795027392705
